@@ -490,7 +490,7 @@
       "fields": {
         "high_temperature_threshold": {
           "name": "Threshold high",
-          "description": "When temp/humidity goes above."
+          "description": "The upper temperature threshold."
         },
         "high_temperature_state": {
           "name": "State high threshold",
@@ -498,7 +498,7 @@
         },
         "low_temperature_threshold": {
           "name": "Threshold low",
-          "description": "When temp/humidity goes below."
+          "description": "The lower temperature threshold."
         },
         "low_temperature_state": {
           "name": "State low threshold",
