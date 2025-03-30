@@ -28,7 +28,7 @@
       "backup_manager_state": {
         "name": "Backup Manager State",
         "state": {
-          "idle": "Idle",
+          "idle": "[%key:common::state::idle%]",
           "create_backup": "Creating a backup",
           "receive_backup": "Receiving a backup",
           "restore_backup": "Restoring a backup"
