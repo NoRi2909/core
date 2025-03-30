@@ -26,7 +26,7 @@
   "entity": {
     "sensor": {
       "backup_manager_state": {
-        "name": "Backup Manager State",
+        "name": "Backup Manager state",
         "state": {
           "idle": "Idle",
           "create_backup": "Creating a backup",
