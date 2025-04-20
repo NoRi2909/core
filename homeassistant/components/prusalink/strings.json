@@ -32,13 +32,13 @@
       "printer_state": {
         "state": {
           "idle": "[%key:common::state::idle%]",
+          "paused": "[%key:common::state::paused%]",
+          "stopped": "[%key:common::state::stopped%]",
+          "error": "[%key:common::state::error%]",
+          "attention": "Attention",
           "busy": "Busy",
           "printing": "Printing",
-          "paused": "[%key:common::state::paused%]",
           "finished": "Finished",
-          "stopped": "[%key:common::state::stopped%]",
-          "error": "Error",
-          "attention": "Attention",
           "ready": "Ready"
         }
       },
