@@ -15,7 +15,7 @@
       }
     },
     "error": {
-      "invalid_known_hosts": "Known hosts must be a comma separated list of hosts."
+      "invalid_known_hosts": "Known hosts must be a comma-separated list of hosts."
     }
   },
   "options": {
