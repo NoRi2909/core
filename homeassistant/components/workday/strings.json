@@ -227,7 +227,7 @@
           "name": "Date"
         }
       },
-      "name": "Check date"
+      "name": "Check date for workday"
     }
   },
   "title": "Workday"
